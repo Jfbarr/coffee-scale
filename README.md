@@ -30,13 +30,13 @@ Software components:
 
 Project stages:
 1. Basic scale functionality:
-  - Turn on and off.
-  - Measure weight 
-  - Tare
+   1. Turn on and off.
+   2. Measure weight 
+   3. Tare
 2. Timing functionality. 
-  - Start, stop, and reset timer.
+   1. Start, stop, and reset timer.
 3. Bluetooth functionality.
-   - Stream data externally.
-   - Receive data externally and display on OLED (thinking a progress bar for shot duration if the machine has this calibrated, either via time, volumetrics or weight).
+   1. Stream data externally.
+   2. Receive data externally and display on OLED (thinking a progress bar for shot duration if the machine has this calibrated, either via time, volumetrics or weight).
 4. Case design!
-   - Build a fun case to sit in which supports touch sensitive buttons.
+   1. Build a fun case to sit in which supports touch sensitive buttons.
